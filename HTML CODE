@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rent Car</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>LOGO</h1>
+        <div>
+        <input class="searchicon" placeholder="Search">
+        </div>
+        <nav>
+            <li>Home</li>
+            <li>About Us</li>
+            <li>Contact</li>
+            <li>Portfolio</li>
+        </nav>
+        <div>
+            <button class="loginbtn"><h4>Login</h4></button>
+            <button class="signupbtn"><h4>Sign Up</h4></button>
+        </div>
+        
+    </header>
+    <div class="main">
+        <div class="content">
+            <h1>SENRA</h1>
+            <h3>Let's Have a Drive</h3>
+            <p class="build">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio ipsa eveniet distinctio minima maxime quasi optio possimus, explicabo, quam atque in, labore officiis ducimus? Saepe voluptatibus ad perspiciatis cupiditate beatae.</p>
+            
+            <button class="get"><h4>Get Started!</h4></button>
+            <button class="ride"><h4>Take A Ride</h4></button>
+
+        </div>
+        <div class="image">
+            <img src="car.gif">
+    
+    </div>
+    
+
+    </div>
+
+
+    <div class="contact">
+        <h4>Contact</h4>
+        <p>+917708573561</p>
+        <p>senra@gmail.com</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur odit autem, corporis mollitia optio facilis rerum eum ullam, sequi animi asperiores quas sunt perspiciatis iure in voluptas neque quidem quia?</p> </p>
+    </div>
+
+      
+</body>
+</html>
