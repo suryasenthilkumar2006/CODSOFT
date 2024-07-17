@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-family: sans-serif;
+    
+}
+body{
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(125, 17, 125);
+    overflow: hidden;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+    color: white;
+    
+}
+
+header h1{
+    font-family: arial;
+}
+
+nav li{
+    display: inline-block;
+    margin: 10px 20px;
+    font-weight: 600;
+}
+
+.main{
+    width: 100%;
+    display: flex;
+}
+.content{
+    width: 40%;
+    margin-top: 7%;
+    margin-left: 5%;
+    color: white;
+    overflow: hidden;
+}
+.content h1{
+   font-size: 80px;
+   margin-bottom: 2%;
+   letter-spacing: 5px;
+   
+   
+}
+.content h3{
+    font-size: 25px;
+    margin-bottom: 3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 25px ;
+}
+
+.searchicon{
+    border-radius: 10px;
+    text-align: left;
+    padding-top: 5px;
+    padding-right: 100px;
+    padding-left: 20px;
+    padding-bottom: 3%;
+    border: none;
+    font-size: 16px;
+}
+.build{
+    font-size: 18px;
+    margin-bottom: 4% ;
+    padding-left: 10px;
+}
+
+.get{
+    padding: 15px 30px;
+   border-radius: 10px;
+    border: none;
+    background-color: green;
+    margin-right: 10px;
+    font-size: 13px;
+    
+    
+}
+.get:hover{
+    background-color: white;
+    
+    color: black;
+}
+.ride{ padding: 15px 30px;
+    border-radius: 10px;
+     border: none;
+     background-color:whitesmoke ;
+     margin-left: 40px;
+     font-size: 13px;
+     
+
+}
+.ride:hover{
+   background-color: black;
+   color: white ;
+}
+
+.loginbtn{
+    padding: 10px 20px;
+     border: none;
+     background-color: skyblue;
+     margin-right: 80px;
+     font-size: 13px;
+     border-radius: 10px;
+
+}
+
+
+
+.signupbtn{
+    padding: 10px 20px;
+    margin-right: 30px;
+     border: none;
+     background-color: violet;
+     
+     font-size: 13px;
+     border-radius: 10px;
+     margin-right: 100px;
+}
+.contact{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 15px 20px;
+    overflow: hidden;
+ margin-bottom: 50px;
+ 
+ 
+}
+
+
+
+     
+     
+
+
+    
+
